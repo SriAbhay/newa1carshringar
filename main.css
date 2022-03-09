@@ -8,3 +8,15 @@
     padding-left: 15%;
     padding-right: 15%;
 }
+.button
+{
+    background-color: aqua;
+    background-position: center;
+    font-style: white;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-block-end: 0%;
+    padding-block-start: 0%;
+}
