@@ -1,6 +1,8 @@
 .heading
 {
-    background-color: blue; 
+    background-color: rgb(43, 43, 238); 
     font-stretch: expanded;
     font-style: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
