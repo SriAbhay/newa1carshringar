@@ -1,5 +1,7 @@
 .primary-link {
-background-color: skyblue;
+background-color: rgb(11, 33, 160);
   border-radius: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
   color: white
 } 
