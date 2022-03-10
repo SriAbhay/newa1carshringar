@@ -8,9 +8,3 @@ background-color: rgb(6, 174, 240);
   text-decoration: none;
   color: white
 } 
-.product{
-  position: absolute;
-    margin: auto;
-    max-width: 100%;
-    max-height: 100%
-}
