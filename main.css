@@ -8,3 +8,17 @@ background-color: rgb(6, 174, 240);
   text-decoration: none;
   color: white
 } 
+.pd-text{
+text-decoration: none;
+color: grey
+}
+.booknow-text{
+  background-color: rgb(28, 129, 3);
+  border-radius: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  text-decoration: none;
+  color: rgb(92, 5, 5)
+}
