@@ -13,7 +13,7 @@ text-decoration: none;
 color: grey
 }
 .booknow-text{
-  background-color: rgb(28, 129, 3);
+  background-color: rgb(73, 68, 2);
   border-radius: 0.5rem;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -23,7 +23,7 @@ color: grey
   color: rgb(92, 5, 5)
 }
 .rating-link{
-  background-color: rgb(98, 230, 59);
+  background-color: rgba(24, 97, 2, 0.945);
   border-radius: 0.5rem;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
